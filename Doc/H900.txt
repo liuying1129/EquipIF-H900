@@ -1,2 +1,0 @@
-Sample Report  Date  15-01-16  Time  16:31:24  PAT       871  Reel       001  Cup       001  Barcode                        K  3.99      Na 148.7      Cl 107.5      iCa      0.00  TCa      0.00  nCa      0.00  TCO2      0.00  pH      0.00  AG      0.00  Mg      0.00  Li      0.00  End
-Sample Report  Date  15-01-16  Time  16:32:51  PAT       873  Reel       001  Cup       001  Barcode                        K  3.99      Na 148.7      Cl 108.9      iCa      0.00  TCa      0.00  nCa      0.00  TCO2      0.00  pH      0.00  AG      0.00  Mg      0.00  Li      0.00  End
